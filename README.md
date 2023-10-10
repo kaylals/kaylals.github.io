@@ -13,13 +13,13 @@ In designing my website, I wanted a clean and modern look that emphasized usabil
 Given more time, I'd love to add a blog section where I can regularly share my insights, experiences, or tutorials. To achieve this, I may need to learn how to involve saving and managing data in a database for dynamic content management.Furthermore, I plan to enhance user engagement by implementing features like user comments and interactions on my blog posts, fostering a sense of community and discussion.
 
 ### Time Investment
-- I spent approximately 6 hours on this assignment. While some tasks were straightforward, others, especially the responsive design aspects, required a significant amount of research and trial and error.
+I spent approximately 6 hours on this assignment. While some tasks were straightforward, others, especially the responsive design aspects, required a significant amount of research and trial and error.
 
 ## Acknowledgements
-The foundation for this project is based on the code I wrote while taking a course on Udemy.
+The foundation for this project is based on the code I wrote while taking a course on Udemy.Additionally, for enhancing the visual appeal of the site, I imported specific fonts libraries.
 
 **Code Reference:** [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
-Additionally, for enhancing the visual appeal of the site, I imported specific fonts libraries.
 **Libraries Reference:** [Fonts](https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Sacramento).
+
 I'd like to express my appreciation to the creators and maintainers of these resources.
